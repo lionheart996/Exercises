@@ -258,7 +258,7 @@
       <workItem from="1781940838307" duration="5805000" />
       <workItem from="1782063750398" duration="2433000" />
       <workItem from="1782118842717" duration="4990000" />
-      <workItem from="1782204107447" duration="4026000" />
+      <workItem from="1782204107447" duration="5018000" />
     </task>
     <servers />
   </component>
@@ -312,6 +312,6 @@
     <SUITE FILE_PATH="coverage/Exercises$odd_occurrences.coverage" NAME="odd_occurrences Coverage Results" MODIFIED="1782064848476" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Dicts" />
     <SUITE FILE_PATH="coverage/Exercises$even_numbers.coverage" NAME="even_numbers Coverage Results" MODIFIED="1781355691244" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/Exercises$replace_repeating_chars.coverage" NAME="replace_repeating_chars Coverage Results" MODIFIED="1782206764288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Text Processing" />
-    <SUITE FILE_PATH="coverage/Exercises$string_explosion.coverage" NAME="string_explosion Coverage Results" MODIFIED="1782208954051" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Text Processing" />
+    <SUITE FILE_PATH="coverage/Exercises$string_explosion.coverage" NAME="string_explosion Coverage Results" MODIFIED="1782215686407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Text Processing" />
   </component>
 </project>
